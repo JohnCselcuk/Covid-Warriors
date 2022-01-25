@@ -11,8 +11,9 @@ Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome
 
 
 ## Data Sources
-
-
+- CDC 
+- All over web site
+- [North Calorina state csv file](https://github.com/JohnCselcuk/Covid-Warriors/tree/main/Data_source)
 
 
 
