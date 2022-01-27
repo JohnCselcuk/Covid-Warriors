@@ -6,6 +6,11 @@ Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome
 ![Tableau 1](https://user-images.githubusercontent.com/85411967/151269400-6236358f-10a0-479f-8fca-37c3c4fe1c29.png)
 
 
+
+
+![Tableau 2](https://user-images.githubusercontent.com/85411967/151273551-83a3fb28-6c2d-4efd-843d-93b54400b2b0.png)
+
+
 ## Technologies
 - Python 
 - Jupyter notebook 
