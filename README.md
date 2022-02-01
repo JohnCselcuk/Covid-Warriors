@@ -16,7 +16,9 @@ Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome
 - Jupyter notebook 
 - Pandas 
 - Pg Admin
-- SQL
+- SQL 
+- Tableau
+- AWS
 
 
 ## Data Sources
