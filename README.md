@@ -20,3 +20,7 @@ Furthermore, once we have a good understanding of the questions machine learning
 
 ### Preliminary Results
 By mapping the data in Tableau, we were able to get a good look at what questions we can help answer with machine learning. By determining which demographic factors contribute to covid hospitalization, we can then direct resources to the communities that would be most effected by an increase in cases.
+
+![Cases by Demographics](demographics.png)
+
+![Cases by Sex](cases_by_sex.png)
