@@ -24,11 +24,13 @@ Daily Cases keep growing in 2022. There is still high number of unvaccinated a l
 ![image](https://user-images.githubusercontent.com/85411967/152422841-39354618-c8b3-47f4-a1b3-8ad7403af95b.png)
 
 
-![Tableau 1](https://user-images.githubusercontent.com/85411967/151269400-6236358f-10a0-479f-8fca-37c3c4fe1c29.png) The graphic on the left we have analyzed the 5 largest counties in NC.
+![Tableau 1](https://user-images.githubusercontent.com/85411967/151269400-6236358f-10a0-479f-8fca-37c3c4fe1c29.png)
 
-                                                                                                                    Highest case number is Mecklenburg county, lowest is Cumberland county. 
+The graphic on the left we have analyzed the 5 largest counties in NC.
 
-                                                                                                                    Wake county has the third highest cases while being the largest county in North Carolina.
+Highest case number is Mecklenburg county, lowest is Cumberland county. 
+
+Wake county has the third highest cases while being the largest county in North Carolina.
 
 
 
