@@ -11,7 +11,8 @@ Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome
 - Pandas 
 - SQL 
 - Tableau
-- AWS
+- AWS (Amazon Web Service)
+- Machine Learning
 
 ## Data Sources
 - CDC 
