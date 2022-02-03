@@ -15,8 +15,10 @@ Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome
 - Machine Learning
 
 ## Data Sources
-- CDC 
+- [CDC](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36) 
 - [North Calorina state csv file](https://github.com/JohnCselcuk/Covid-Warriors/tree/main/Data_source)
+- [NC State Covid Road map](https://covid19.ncdhhs.gov/)
+- [Feredal Government](https://www.usa.gov/coronavirus)
 
 ## Results
 Daily Cases keep growing in 2022. There is still high number of unvaccinated a lot of people, that is the most important efficiency.  
