@@ -37,3 +37,5 @@ Wake county has the third highest cases while being the largest county in North 
 
 
 ![Tableau 2](https://user-images.githubusercontent.com/85411967/151273551-83a3fb28-6c2d-4efd-843d-93b54400b2b0.png)
+
+Older adults are more likely to get very sick from COVID-19. Getting very sick means that older adults with COVID-19 might need hospitalization, intensive care, or a ventilator to help them breathe, or they might even die. The risk increases for people in their 50s and increases in 60s, 70s, and 80s. People 85 and older are the most likely to get very sick.
