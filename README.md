@@ -19,7 +19,9 @@ Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome
 - [North Calorina state csv file](https://github.com/JohnCselcuk/Covid-Warriors/tree/main/Data_source)
 
 ## Results
+Daily Cases keep growing in 2022. There is still high number of unvaccinated a lot of people, that is the most important efficiency.  
 
+![image](https://user-images.githubusercontent.com/85411967/152422841-39354618-c8b3-47f4-a1b3-8ad7403af95b.png)
 
 
 ![Tableau 1](https://user-images.githubusercontent.com/85411967/151269400-6236358f-10a0-479f-8fca-37c3c4fe1c29.png)
