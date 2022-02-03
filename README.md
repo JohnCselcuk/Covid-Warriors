@@ -3,6 +3,8 @@
 ## Overview of our Analysis
 Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2, was first identified in Wuhan, China, in December 2019. As the number of COVID-19 infections and deaths worldwide continues to increase rapidly, the prevention and control of COVID-19 remains urgent. This article aims to analyze COVID-19 from a geographical perspective, and this information can provide useful insights for rapid visualization of spatial-temporal epidemic information and identification of the factors important to the spread of COVID-19. This project is focused on analyzing North Calorina state demographics by total number of cases and hospitalizations.
 
+![Cover](https://user-images.githubusercontent.com/85411967/152261914-e0c5b9cb-82f1-44ba-912d-42a72842211c.png)
+
 ## Technologies
 - Python 
 - Jupyter notebook 
