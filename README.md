@@ -23,4 +23,4 @@ By mapping the data in Tableau, we were able to get a good look at what question
 
 ![Cases by Demographics](demographics.png)
 
-![Cases by Sex](cases_by_sex.png)
+![Cases by Sex](case_by_gender.png)
