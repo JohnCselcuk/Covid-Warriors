@@ -17,3 +17,6 @@ We plan to use matplotlib to begin visualizing how we might begin to use the dat
 * Can we predict the rate of hospitalizations and deaths using machine learning based on those facotrs?
 
 Furthermore, once we have a good understanding of the questions machine learning can help us with, we'll use Tableau to put together a visualization dashboard with our results.
+
+### Preliminary Results
+By mapping the data in Tableau, we were able to get a good look at what questions we can help answer with machine learning. By determining which demographic factors contribute to covid hospitalization, we can then direct resources to the communities that would be most effected by an increase in cases.
