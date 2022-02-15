@@ -21,20 +21,23 @@ Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome
 - [Feredal Government](https://www.usa.gov/coronavirus)
 
 ## Results
-Daily Cases keep growing in 2022. There is still high number of unvaccinated a lot of people, that is the most important efficiency.  
+### Data Cleaning
+To begin our project, we uploaded the csv file into Jupyter Notebook and created a DataFrame with Pandas. From there, we were able to parse through the data to filter out null values and any irrelevant columns to our project, and export the cleaned DataFrame to a new csv file. With the cleaned data in hand, we were able to load the csv into an AWS database for remote access for the whole team. 
 
-![image](https://user-images.githubusercontent.com/85411967/152422841-39354618-c8b3-47f4-a1b3-8ad7403af95b.png)
+Using Tableau, we were able to make some conclusions based on the data for COVID hospitalizations in North Carolina:
+
+![Tableau 1](Images/cases_by_county.png)
+
+![Tableau 2](Images/case_timeline.png)
+
+### Machine Learning
+Our main focus using machine learning was to determine which, if any, patient demographic factors related to hospitalization. Using several machine learning modules, it became clear that COVID hospitalizations are difficult to predict. Using scaled data in the RandomForest module from sklearn produced the best results, with only 30% accuracy of predicting hospitalizations.
 
 
-![Tableau 1](https://user-images.githubusercontent.com/85411967/151269400-6236358f-10a0-479f-8fca-37c3c4fe1c29.png)
+![Machine Learning Results](Images/scaled_logistic.png)
 
-The graphic above we have analyzed the 5 largest counties in NC.
-Highest case number is Mecklenburg county, lowest is Cumberland county. 
-Wake county has the third highest cases while being the largest county in North Carolina.
+![Machine Learning 2](Images/feature_importance.png)
 
+Furthermore, it appears that a patients age group is the most important feature when it comes to predicting hospitalization. Older adults are more likely to get very sick from COVID-19. Getting very sick means that older adults with COVID-19 might need hospitalization, intensive care, or a ventilator to help them breathe, or they might even die. The risk increases for people in their 50s and increases in 60s, 70s, and 80s. People 85 and older are the most likely to get very sick.
 
-
-![Tableau 2](https://user-images.githubusercontent.com/85411967/151273551-83a3fb28-6c2d-4efd-843d-93b54400b2b0.png)
-
-Older adults are more likely to get very sick from COVID-19. Getting very sick means that older adults with COVID-19 might need hospitalization, intensive care, or a ventilator to help them breathe, or they might even die. The risk increases for people in their 50s and increases in 60s, 70s, and 80s. People 85 and older are the most likely to get very sick.
-Other factors can also make you more likely to get severely ill with COVID-19, such as having certain underlying medical conditions. If you have an underlying medical condition, you should continue to follow your treatment plan, unless advised differently by your health care provider.
+![Age Group](Images/age_group.png)
